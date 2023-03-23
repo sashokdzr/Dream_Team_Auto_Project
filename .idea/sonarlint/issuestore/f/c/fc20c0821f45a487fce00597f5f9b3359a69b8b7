@@ -1,0 +1,19 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(¡‡ú©
+)	java:S121"Missing curly brace.(Íçö–
+G
+java:S1108"1Move this "else" keyword to a new dedicated line.(Íçö–
+N	java:S106"9Replace this use of System.out or System.err by a logger.(—…©™
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ—ª•úÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Š´á´
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óŒ¡a
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Š´á´
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¥‹œüÿÿÿÿ
+V
+java:S1106"AMove this left curly brace to the beginning of next line of code.(™®n
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ö–©åúÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘

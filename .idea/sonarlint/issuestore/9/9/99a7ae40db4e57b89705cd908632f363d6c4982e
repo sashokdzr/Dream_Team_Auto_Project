@@ -1,0 +1,30 @@
+
+m	java:S109
+"SAssign this magic number 31 to a well-named constant, and use the constant instead.(ÀïÄÐûÿÿÿÿ
+h	java:S109"SAssign this magic number 30 to a well-named constant, and use the constant instead.(éÒÑ 
+h	java:S109"SAssign this magic number 28 to a well-named constant, and use the constant instead.(Êá†Á
+o	java:S109"SAssign this magic number 30 to a well-named constant, and use the constant instead.(ËçÌ“8òØÁóƒ0
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÞŽð¶ûÿÿÿÿ
+O
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(£ý¿‡ùÿÿÿÿ
+f
+java:S1132"KMove the "March" string literal on the left side of this string comparison.(¸„÷™ûÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(¼—éB
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Â„¶…
+a
+java:S2175"KA "HashMap<String, Integer>" cannot contain a "Integer" in a "String" type.(Â„¶…
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¥Êâãþÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¥Êâãþÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(£ý¿‡ùÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¸„÷™ûÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Øìœ¦
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ËçÌ“

@@ -1,0 +1,22 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¨”ý°
+(	java:S121
+"Missing curly brace.(£ã¦
+2
+java:S1643"Use a StringBuilder instead.(€ã“Ù
+2
+java:S1643"Use a StringBuilder instead.(’¡Üä
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ä½©í
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óŒ¡a
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ä½©í
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Þˆ ­
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(á¢–¬
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¸þõöúÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Û†²Ð

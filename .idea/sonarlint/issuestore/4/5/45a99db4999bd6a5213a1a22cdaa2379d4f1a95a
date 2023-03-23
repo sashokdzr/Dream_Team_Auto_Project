@@ -1,0 +1,14 @@
+
+g	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(“öĞ˜
+g	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(Š±Ú 
+n	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(Š±Ú 8‰«ùÖ0
+n	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(Š±Ú 8ĞÓ¬ùÖ0
+d
+java:S1774"GConvert this usage of the ternary operator to an "if"/"else" structure.(Š±Ú 8àÓ¬ùÖ0
+S
+java:S1244"=Equality tests should not be made with floating point values.(Š±Ú 
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óŒ¡a
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¶°¬£
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Î³˜Şùÿÿÿÿ

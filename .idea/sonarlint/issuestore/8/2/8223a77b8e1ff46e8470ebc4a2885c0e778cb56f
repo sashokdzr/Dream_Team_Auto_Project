@@ -1,0 +1,68 @@
+
+l	java:S109"RAssign this magic number 5 to a well-named constant, and use the constant instead.(•üñ›þÿÿÿÿ
+f	java:S109"RAssign this magic number 5 to a well-named constant, and use the constant instead.(µ²“
+S	java:S8645"9Add parentheses to make the operator precedence explicit.(¥ú´•þÿÿÿÿ
+e	java:S103."KSplit this 124 characters long line (which is greater than 120 authorized).(‚õÎ‚üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÂŸÀïûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“ŒÇÎÿÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(µ²“
+.	java:S121."Missing curly brace.(‚õÎ‚üÿÿÿÿ
+7
+java:S1116/"Remove this empty statement.(Åñ­õþÿÿÿÿ
+_
+java:S33585"DExtract this nested ternary operation into an independent statement.(¥ú´•þÿÿÿÿ
+b
+java:S17745"GConvert this usage of the ternary operator to an "if"/"else" structure.(¥ú´•þÿÿÿÿ
+_
+java:S33585"DExtract this nested ternary operation into an independent statement.(¥ú´•þÿÿÿÿ
+b
+java:S17745"GConvert this usage of the ternary operator to an "if"/"else" structure.(¥ú´•þÿÿÿÿ
+b
+java:S17745"GConvert this usage of the ternary operator to an "if"/"else" structure.(¥ú´•þÿÿÿÿ
+Q	java:S125D"<This block of commented-out lines of code should be removed.(Ê§Ü™
+Z
+java:S1854J"8Remove this useless assignment to local variable "temp".(ôö·êýÿÿÿÿ8ŒÆÈòƒ0
+U
+java:S1854I"8Remove this useless assignment to local variable "temp".(Ø„öÒ8õìÇòƒ0
+N
+java:S1854H"8Remove this useless assignment to local variable "temp".(ªž–ô
+O
+java:S1128"-Remove this unused import 'java.util.Locale'.(åð×±ûÿÿÿÿ8ÓŒÉòƒ0
+7
+java:S1643&"Use a StringBuilder instead.(åï¬Ôÿÿÿÿÿ
+T
+java:S49735"9Use the "equals" method if value comparison was intended.(¥ú´•þÿÿÿÿ
+T
+java:S49735"9Use the "equals" method if value comparison was intended.(¥ú´•þÿÿÿÿ
+T
+java:S49735"9Use the "equals" method if value comparison was intended.(¥ú´•þÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(õÛªŠüÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ææŠœúÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÁÜª€
+\
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(Ï†Â„ûÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ã‡ìÑ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(•üñ›þÿÿÿÿ
+W
+java:S1106#"AMove this left curly brace to the beginning of next line of code.(îË«¾
+\
+java:S1106%"AMove this left curly brace to the beginning of next line of code.(©¦ØÚþÿÿÿÿ
+W
+java:S1106+"AMove this left curly brace to the beginning of next line of code.(¡ÚÄ½
+\
+java:S11064"AMove this left curly brace to the beginning of next line of code.(ëâÍ„ûÿÿÿÿ
+\
+java:S11068"AMove this left curly brace to the beginning of next line of code.(’¨ªœüÿÿÿÿ
+\
+java:S1106;"AMove this left curly brace to the beginning of next line of code.(§›É«üÿÿÿÿ
+\
+java:S1106A"AMove this left curly brace to the beginning of next line of code.(Ÿˆ¨øÿÿÿÿ
+W
+java:S1106G"AMove this left curly brace to the beginning of next line of code.(Þô™ž

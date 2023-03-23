@@ -1,0 +1,26 @@
+
+n	java:S109"TAssign this magic number 113 to a well-named constant, and use the constant instead.(É‡­­þÿÿÿÿ
+m	java:S109	"SAssign this magic number 10 to a well-named constant, and use the constant instead.(üýïäþÿÿÿÿ
+h	java:S109"SAssign this magic number 16 to a well-named constant, and use the constant instead.(áÞ¬˜
+G
+java:S1108
+"1Move this "else" keyword to a new dedicated line.(å¥ž‡
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ò•à£ÿÿÿÿÿ
+7
+java:S1643	"Use a StringBuilder instead.(üýïäþÿÿÿÿ
+2
+java:S1643"Use a StringBuilder instead.(áÞ¬˜
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óŒ¡a
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ìÞˆ¤
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(°¾¯¢ýÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ŽÚšïüÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(É‡­­þÿÿÿÿ
+W
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(å¥ž‡
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘

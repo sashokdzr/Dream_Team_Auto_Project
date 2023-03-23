@@ -1,0 +1,21 @@
+
+l	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(§–­ôùÿÿÿÿ
+s	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ÉõÔøÿÿÿÿ8Ù¢ñ¹ı/
+s	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(Ÿ¬Òåıÿÿÿÿ8Ù¢ñ¹ı/
+s	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(Õ¯Õïıÿÿÿÿ8Ù¢ñ¹ı/
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§–­ôùÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÉõÔøÿÿÿÿ8é¢ñ¹ı/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ¬Òåıÿÿÿÿ8é¢ñ¹ı/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Õ¯Õïıÿÿÿÿ8é¢ñ¹ı/
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ë‘¹óøÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+W
+java:S1106	"AMove this left curly brace to the beginning of next line of code.(·šÒ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(€ìƒ…
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(üÍ“
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ø è¨

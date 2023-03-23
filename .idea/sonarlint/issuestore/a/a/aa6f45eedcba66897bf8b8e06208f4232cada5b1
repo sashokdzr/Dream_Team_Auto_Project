@@ -1,0 +1,12 @@
+
+l	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(¤éœÜýÿÿÿÿ
+l	java:S109"RAssign this magic number 8 to a well-named constant, and use the constant instead.(¤éœÜýÿÿÿÿ
+l	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ÑÞŽ±ýÿÿÿÿ
+l	java:S109"RAssign this magic number 8 to a well-named constant, and use the constant instead.(ÑÞŽ±ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤éœÜýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÑÞŽ±ýÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¤½»Ù
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ý£†ñ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘

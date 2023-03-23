@@ -1,0 +1,21 @@
+
+Z
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ
+`	java:S103"KSplit this 171 characters long line (which is greater than 120 authorized).(ëüåç
+S	java:S106"9Replace this use of System.out or System.err by a logger.(î–é‚üÿÿÿÿ
+i	java:S122"TAt most one statement is allowed per line, but 2 statements were found on this line.(¼²Ä«
+A
+java:S1905#"&Remove this unnecessary cast to "int".(Î°Ç“ùÿÿÿÿ
+)	java:S121+"Missing curly brace.(Ò±¦Ï
+^
+java:S1107+"HMove this "else" on the same line that the previous closing curly brace.(Ò±¦Ï
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(£×åşÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßçÔ¶úÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(£×åşÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Á»›ê
+\
+java:S1106("AMove this left curly brace to the beginning of next line of code.(¸¡ùùÿÿÿÿ

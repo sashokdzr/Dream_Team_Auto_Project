@@ -1,0 +1,23 @@
+
+g	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(§ã¯“
+l	java:S109"RAssign this magic number 3 to a well-named constant, and use the constant instead.(ÎšÎøÿÿÿÿ
+l	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ÎšÎøÿÿÿÿ
+g	java:S109"RAssign this magic number 4 to a well-named constant, and use the constant instead.(ÃÖòë
+g	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ÃÖòë
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ƒ¼úó
+-	java:S923"Do not use varargs.(“Ç”úÿÿÿÿÿ
+<	java:S131""Add a default case to this switch.(È»Ò÷úÿÿÿÿ
+S
+java:S5194"8Use "switch" expression to return the value from method.(È»Ò÷úÿÿÿÿ
+h
+java:S1142"MReduce the number of returns of this method 6, down to the maximum allowed 3.(“Ç”úÿÿÿÿÿ
+\
+java:S1192"FDefine a constant instead of duplicating this literal " and " 3 times.(§ã¯“
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óŒ¡a
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ƒ¼úó
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(“Ç”úÿÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(È»Ò÷úÿÿÿÿ

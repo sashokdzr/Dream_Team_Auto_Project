@@ -1,0 +1,32 @@
+
+l	java:S109"RAssign this magic number 5 to a well-named constant, and use the constant instead.(²¹“¡øÿÿÿÿ
+t	java:S109"SAssign this magic number 12 to a well-named constant, and use the constant instead.(šòÛÕşÿÿÿÿ8ÎËöôƒ0
+n	java:S109
+"TAssign this magic number 234 to a well-named constant, and use the constant instead.(¹±¤…ıÿÿÿÿ
+n	java:S109"TAssign this magic number 345 to a well-named constant, and use the constant instead.(Ÿãì¾ÿÿÿÿÿ
+n	java:S109"TAssign this magic number 567 to a well-named constant, and use the constant instead.(õÇ¡¥şÿÿÿÿ
+o	java:S109"UAssign this magic number 1000 to a well-named constant, and use the constant instead.(£óĞ©üÿÿÿÿ
+n	java:S109"TAssign this magic number 100 to a well-named constant, and use the constant instead.(“²å½ûÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(ÇÆå
+E
+java:S3740"/Provide the parametrized type for this generic.(‡µœÄ
+D
+java:S2208".Explicitly import the specific classes needed.(Î€ŒÙ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°’ÒÆ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²¹“¡øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(šòÛÕşÿÿÿÿ
+o
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÿŒö
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Œ¾İu
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¡…÷¯øÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÇÆå
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(‡µœÄ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ááöµ

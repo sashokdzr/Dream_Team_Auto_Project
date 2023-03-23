@@ -1,0 +1,23 @@
+
+j	java:S109"VAssign this magic number 50004 to a well-named constant, and use the constant instead.(şŸ•
+g	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(Ë×­’
+g	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ÌîÌò
+M	java:S106"9Replace this use of System.out or System.err by a logger.(şŸ•
+R
+java:S1941"<Move the declaration of "x" closer to the code that uses it.(¤©á
+R
+java:S1941	"<Move the declaration of "y" closer to the code that uses it.(Ì÷ç¦
+T
+java:S1941
+">Move the declaration of "ans" closer to the code that uses it.(®¿­×
+4	java:S113"'Add a new line at the end of this file.
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.( £åÂúÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÕİÙ¸
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ë×­’
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÌîÌò

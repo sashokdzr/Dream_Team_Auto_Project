@@ -1,0 +1,18 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¬·óŸ
+Q	java:S125"<This block of commented-out lines of code should be removed.(öÑÅÐ
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”
+q
+java:S1488"\Immediately return this expression instead of assigning it to the temporary variable "str2".(¬ñ÷T
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óŒ¡a
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(€€…
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ôÞ¡±

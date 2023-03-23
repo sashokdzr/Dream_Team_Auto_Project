@@ -1,0 +1,37 @@
+
+g	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ßÄšÀ
+g	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(‚úôç
+g	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(‚úôç
+g	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(‚úôç
+`
+java:S1996"RThere are 2 top-level types in this file; move all but one of them to other files.
+D
+java:S2039".Explicitly declare the visibility for "width".(ïÙÀÁ
+J
+java:S2039"/Explicitly declare the visibility for "length".(”Ú´ıÿÿÿÿ
+E
+java:S2039"/Explicitly declare the visibility for "height".(¿îäÎ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¶úÜ‘
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«·©’
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Î¿ÉÔ
+b
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Çµí‘
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÂÇÁà
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Àùº»
+\
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(’ªâÌşÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(èïÊ’
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÖòŒÆ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ú¦á³
+V
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ô’±
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Î¿ÉÔ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘

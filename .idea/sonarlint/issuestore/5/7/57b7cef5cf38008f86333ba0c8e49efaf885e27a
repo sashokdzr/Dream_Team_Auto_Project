@@ -1,0 +1,32 @@
+
+m	java:S109"SAssign this magic number 23 to a well-named constant, and use the constant instead.(²€Ñµÿÿÿÿÿ
+h	java:S109"SAssign this magic number 24 to a well-named constant, and use the constant instead.(Âˆ©ô
+h	java:S109"SAssign this magic number 27 to a well-named constant, and use the constant instead.(Ø§Åâ
+h	java:S109"SAssign this magic number 67 to a well-named constant, and use the constant instead.(åæì
+m	java:S109"XAssign this magic number 1000000 to a well-named constant, and use the constant instead.(åæì
+m	java:S109"SAssign this magic number 45 to a well-named constant, and use the constant instead.(ƒ¦æ˜şÿÿÿÿ
+r	java:S109"XAssign this magic number 2000000 to a well-named constant, and use the constant instead.(ƒ¦æ˜şÿÿÿÿ
+m	java:S109"SAssign this magic number 23 to a well-named constant, and use the constant instead.(Ÿ¿õ§üÿÿÿÿ
+r	java:S109"XAssign this magic number 3000000 to a well-named constant, and use the constant instead.(Ÿ¿õ§üÿÿÿÿ
+m	java:S109"SAssign this magic number 23 to a well-named constant, and use the constant instead.(ˆ­ùÊúÿÿÿÿ
+m	java:S109)"SAssign this magic number 56 to a well-named constant, and use the constant instead.(şÖ³”ùÿÿÿÿ
+p	java:S109)"VAssign this magic number 50000 to a well-named constant, and use the constant instead.(şÖ³”ùÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(´¥«q
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ê»óü
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚õ‡
+K
+java:S2148"5Add underscores to this numeric value for readability(åæì
+P
+java:S2148"5Add underscores to this numeric value for readability(ƒ¦æ˜şÿÿÿÿ
+P
+java:S2148"5Add underscores to this numeric value for readability(Ÿ¿õ§üÿÿÿÿ
+Q
+java:S1943"6Remove this use of constructor "Scanner(InputStream)".(ù ƒ‘üÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(äÍº
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(ÚùÉµ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(÷ÓÔŒ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ññÛúÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(‹çÜº
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘

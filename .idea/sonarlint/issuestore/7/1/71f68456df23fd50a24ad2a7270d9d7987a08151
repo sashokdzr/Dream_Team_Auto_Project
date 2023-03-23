@@ -1,0 +1,43 @@
+
+o	java:S109"UAssign this magic number 1.50 to a well-named constant, and use the constant instead.(ã¥ú„ùÿÿÿÿ
+j	java:S109"UAssign this magic number 2.40 to a well-named constant, and use the constant instead.(ÿ°·€
+e	java:S103"KSplit this 149 characters long line (which is greater than 120 authorized).(Óïžöüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ØÍÑ«úÿÿÿÿ
+=
+java:S1872"'Use an "instanceof" comparison instead.(÷¬ø¤
+l
+java:S1132"VMove the "java.lang.String" string literal on the left side of this string comparison.(÷¬ø¤
+B
+java:S1872"'Use an "instanceof" comparison instead.(ú Áýúÿÿÿÿ
+r
+java:S1132"WMove the "java.lang.Integer" string literal on the left side of this string comparison.(ú Áýúÿÿÿÿ
+B
+java:S1872"'Use an "instanceof" comparison instead.(Óïžöüÿÿÿÿ
+r
+java:S1132"WMove the "java.lang.Integer" string literal on the left side of this string comparison.(Óïžöüÿÿÿÿ
+B
+java:S1872"'Use an "instanceof" comparison instead.(Óïžöüÿÿÿÿ
+r
+java:S1132"WMove the "java.lang.Integer" string literal on the left side of this string comparison.(Óïžöüÿÿÿÿ
+L
+java:S1449!"6Define the locale to be used in this String operation.(ÀÀ˜Ð
+m
+java:S1192"RDefine a constant instead of duplicating this literal "java.lang.Integer" 3 times.(ú Áýúÿÿÿÿ
+m	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(ˆ“ÃÖ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óŒ¡a
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(·¶ûÛýÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Íë¡³
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(”Èöþøÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(÷¬ø¤
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ú Áýúÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ì¸ôñ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Óïžöüÿÿÿÿ

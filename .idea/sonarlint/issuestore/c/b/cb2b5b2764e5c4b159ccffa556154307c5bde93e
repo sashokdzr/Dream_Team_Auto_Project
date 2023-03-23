@@ -1,0 +1,36 @@
+
+N
+java:S1213
+"8Move this variable to comply with Java Code Conventions.(Ê§…ñ
+N
+java:S1213"8Move this variable to comply with Java Code Conventions.(¯Ó¶»
+S
+java:S1213"8Move this variable to comply with Java Code Conventions.(è¤êøûÿÿÿÿ
+C
+java:S2039
+"-Explicitly declare the visibility for "name".(Ê§…ñ
+B
+java:S2039",Explicitly declare the visibility for "age".(¯Ó¶»
+J
+java:S2039"/Explicitly declare the visibility for "gender".(è¤êøûÿÿÿÿ
+^
+java:S1107"HMove this "else" on the same line that the previous closing curly brace.(‹–Æå
+b
+java:S1132"GMove the "M" string literal on the left side of this string comparison.(ð´Çðÿÿÿÿÿ
+^
+java:S1107"HMove this "else" on the same line that the previous closing curly brace.(á¢–¬
+]
+java:S1132"GMove the "W" string literal on the left side of this string comparison.(‹–Æå
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ññÛúÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÿ±ÃÛ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¡ÚƒÙúÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(†ö³Û
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ð´Çðÿÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(‹–Æå
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(á¢–¬

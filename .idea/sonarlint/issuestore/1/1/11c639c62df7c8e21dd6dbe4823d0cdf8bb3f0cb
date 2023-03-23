@@ -1,0 +1,24 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¿Ë‰à
+W
+java:S1941"AMove the declaration of "newSrt" closer to the code that uses it.(ì€¦
+W
+java:S1126"AReplace this if-then-else statement by a single return statement.(Æ¤çÕ
+G
+java:S1108"1Move this "else" keyword to a new dedicated line.(å¥‡
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óŒ¡a
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÕàŒ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+W
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(ÚÖÈ­
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(óì÷úÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Æ¤çÕ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(å¥‡

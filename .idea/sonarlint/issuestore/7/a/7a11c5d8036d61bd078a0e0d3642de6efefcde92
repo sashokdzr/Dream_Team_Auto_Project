@@ -1,0 +1,17 @@
+
+o	java:S109"UAssign this magic number 5750 to a well-named constant, and use the constant instead.(†Í…µüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(†Í…µüÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óŒ¡a
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ú™ÈÇüÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Üõï«ûÿÿÿÿ
+\
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(ÁÙæùùÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(­˜¾úÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(‚Íã²üÿÿÿÿ

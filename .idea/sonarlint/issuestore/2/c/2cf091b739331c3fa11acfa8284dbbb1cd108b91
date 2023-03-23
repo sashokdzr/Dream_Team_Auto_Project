@@ -1,0 +1,23 @@
+
+Z
+java:S1105	"?Move this left curly brace to the end of previous line of code.( óÃùÿÿÿÿ
+l	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ÅÎÖõÿÿÿÿÿ
+l	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ÅÎÖõÿÿÿÿÿ
+l	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ÅÎÖõÿÿÿÿÿ
+l	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ÅÎÖõÿÿÿÿÿ
+l	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ÅÎÖõÿÿÿÿÿ
+f	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ßª•w
+M	java:S106"9Replace this use of System.out or System.err by a logger.(ßª•w
+r	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(­–„úÿÿÿÿ
+4	java:S113"'Add a new line at the end of this file.
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óŒ¡a
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(íÂ½Œøÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(’±Ü›
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(„”î
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(µ»éÃ

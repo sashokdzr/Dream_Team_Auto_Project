@@ -1,0 +1,66 @@
+
+l	java:S109("RAssign this magic number 7 to a well-named constant, and use the constant instead.(ãÁÃÏûÿÿÿÿ
+l	java:S109-"RAssign this magic number 2 to a well-named constant, and use the constant instead.(·™ÿ¹úÿÿÿÿ
+g	java:S109."RAssign this magic number 2 to a well-named constant, and use the constant instead.(˜•Ìê
+g	java:S1099"RAssign this magic number 3 to a well-named constant, and use the constant instead.(È³˜˜
+l	java:S109V"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ÃÄÜ¢ùÿÿÿÿ
+l	java:S109V"RAssign this magic number 3 to a well-named constant, and use the constant instead.(ÃÄÜ¢ùÿÿÿÿ
+l	java:S109V"RAssign this magic number 4 to a well-named constant, and use the constant instead.(ÃÄÜ¢ùÿÿÿÿ
+l	java:S109V"RAssign this magic number 5 to a well-named constant, and use the constant instead.(ÃÄÜ¢ùÿÿÿÿ
+l	java:S109V"RAssign this magic number 6 to a well-named constant, and use the constant instead.(ÃÄÜ¢ùÿÿÿÿ
+l	java:S109V"RAssign this magic number 7 to a well-named constant, and use the constant instead.(ÃÄÜ¢ùÿÿÿÿ
+l	java:S109V"RAssign this magic number 8 to a well-named constant, and use the constant instead.(ÃÄÜ¢ùÿÿÿÿ
+l	java:S109V"RAssign this magic number 9 to a well-named constant, and use the constant instead.(ÃÄÜ¢ùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÌøƒÿÿÿÿÿ
+a
+java:S1132"KMove the "White" string literal on the left side of this string comparison.(ñ¯Œî
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¶Ş˜¨üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ËÏÈøûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(§Ùƒì
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ïúıĞ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(·êÜöüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ì’Ü
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ó©ğşÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(´‰¼ÿÿÿÿÿ
+f
+java:S1132#"KMove the "Black" string literal on the left side of this string comparison.(Î¤öèüÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(ÀÅ˜Íùÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(‰ÎªÄüÿÿÿÿ
+S	java:S106)"9Replace this use of System.out or System.err by a logger.(¸šñÙüÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ÿ©ìËúÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(Ï»«şÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(‰ùÊ½üÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(²Óøúÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(øÁáİ
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ä³›úÿÿÿÿ
+K	java:S1399"6Move this trailing comment on the previous empty line.(È³˜˜
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(÷ÀÒ•üÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+J
+java:S1128"/Remove this unused import 'java.util.Optional'.(¨˜ëİüÿÿÿÿ
+a
+java:S1192#"FDefine a constant instead of duplicating this literal "Black" 5 times.(Î¤öèüÿÿÿÿ
+\
+java:S1192"FDefine a constant instead of duplicating this literal "White" 3 times.(ñ¯Œî
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñ¯Œî
+k	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î¤öèüÿÿÿÿ
+v
+java:S1488@"[Immediately return this expression instead of assigning it to the temporary variable "min".(Ğİëæıÿÿÿÿ
+
+java:S1488U"fImmediately return this expression instead of assigning it to the temporary variable "listOfIntegers".(ƒ†¸‡şÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ßçÔ¶úÿÿÿÿ
+\
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(Ëùñ›ùÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+\
+java:S1106?"AMove this left curly brace to the beginning of next line of code.(Æ•Ï…şÿÿÿÿ
+\
+java:S1106F"AMove this left curly brace to the beginning of next line of code.(àò¡ÿÿÿÿÿ
+\
+java:S1106T"AMove this left curly brace to the beginning of next line of code.(¿‚é©úÿÿÿÿ
+R
+java:S3655@"7Call "Optional#isPresent()" before accessing the value.(Ğİëæıÿÿÿÿ

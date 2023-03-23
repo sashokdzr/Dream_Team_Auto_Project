@@ -1,0 +1,17 @@
+
+Z
+java:S1105"?Move this left curly brace to the end of previous line of code.(ÒÌâ–øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óŒ¡a
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(‡²°›üÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÿ—Žäûÿÿÿÿ
+W
+java:S1106!"AMove this left curly brace to the beginning of next line of code.(ë¼é­
+W
+java:S1106""AMove this left curly brace to the beginning of next line of code.(á’ˆ€
+\
+java:S1106#"AMove this left curly brace to the beginning of next line of code.(ƒƒ·ßüÿÿÿÿ

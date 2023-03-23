@@ -1,0 +1,24 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½ÏÇ‰ûÿÿÿÿ
+W
+java:S1941"AMove the declaration of "result" closer to the code that uses it.(ìş“
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ
+2
+java:S1643"Use a StringBuilder instead.(Ø’À½
+7
+java:S1643"Use a StringBuilder instead.(µ²‘Ÿÿÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óŒ¡a
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Æ¤¾ô
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+\
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.( êÿıÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(–Ò®š
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ñğóşÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.( «‚Ì

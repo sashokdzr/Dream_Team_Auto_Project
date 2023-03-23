@@ -1,0 +1,36 @@
+
+t	java:S109"SAssign this magic number 20 to a well-named constant, and use the constant instead.(ÖŞ©Ãúÿÿÿÿ8ˆÆ¤¹¿0
+s	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ÖŞ©Ãúÿÿÿÿ8¢Š¹¿0
+s	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ÖŞ©Ãúÿÿÿÿ8œ×¢¹¿0
+s	java:S109"RAssign this magic number 3 to a well-named constant, and use the constant instead.(ÖŞ©Ãúÿÿÿÿ8Æ¤¹¿0
+s	java:S109"RAssign this magic number 3 to a well-named constant, and use the constant instead.(ÖŞ©Ãúÿÿÿÿ8Æ¤¹¿0
+s	java:S109"RAssign this magic number 5 to a well-named constant, and use the constant instead.(ÖŞ©Ãúÿÿÿÿ8Æ¤¹¿0
+s	java:S109"RAssign this magic number 5 to a well-named constant, and use the constant instead.(ÖŞ©Ãúÿÿÿÿ8‘Æ¤¹¿0
+s	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ÖŞ©Ãúÿÿÿÿ8‘Æ¤¹¿0
+s	java:S109"RAssign this magic number 4 to a well-named constant, and use the constant instead.(ÖŞ©Ãúÿÿÿÿ8’Æ¤¹¿0
+t	java:S109"SAssign this magic number 20 to a well-named constant, and use the constant instead.(ÖŞ©Ãúÿÿÿÿ8“Æ¤¹¿0
+s	java:S109"RAssign this magic number 4 to a well-named constant, and use the constant instead.(ÖŞ©Ãúÿÿÿÿ8”Æ¤¹¿0
+s	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ÖŞ©Ãúÿÿÿÿ8–Æ¤¹¿0
+s	java:S109"RAssign this magic number 5 to a well-named constant, and use the constant instead.(ÖŞ©Ãúÿÿÿÿ8—Æ¤¹¿0
+s	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(Î¹Ûêûÿÿÿÿ8šÆ¤¹¿0
+s	java:S109"RAssign this magic number 2 to a well-named constant, and use the constant instead.(ˆÿñÊøÿÿÿÿ8›Æ¤¹¿0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(èŞïŒùÿÿÿÿ
+^
+java:S1107$"HMove this "else" on the same line that the previous closing curly brace.(á¢–¬
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óŒ¡a
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÑòÔ¡ùÿÿÿÿ
+W
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Çµí‘
+V
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÿ™
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¾èÉ²øÿÿÿÿ
+W
+java:S1106$"AMove this left curly brace to the beginning of next line of code.(á¢–¬
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Î¹Ûêûÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ğÙ÷ğüÿÿÿÿ
+\
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ˆÿñÊøÿÿÿÿ
