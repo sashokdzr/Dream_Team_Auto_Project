@@ -9,6 +9,7 @@ import static java.util.Arrays.sort;
 class Poet {
     public static void main(String[] args) {
         int[] test = {10,5,6,10,11};
+        String st =test.toString();
         int[] testArr = pendulum(test);
         System.out.println(Arrays.toString(testArr));
     }
