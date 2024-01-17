@@ -13,6 +13,7 @@ public class CompareStringsbySumofChars {
                     }
                     else {sum1=0;
                         break;}
+
                 }
             }
             if (s2 != null) {
