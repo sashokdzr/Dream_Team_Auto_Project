@@ -3,7 +3,7 @@ package Enum;
 public class Subscription {
     public static void main(String[] args) {
         Sub sub = new Sub();
-        sub.state = Sub.State.SUSPENDED;
+        sub.state = Sub.State.NONE;
 
 
         switch (sub.state) {

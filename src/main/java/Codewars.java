@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class Codewars {
     public static void main(String[] args) {
         System.out.println(amountOfPages(100000));
