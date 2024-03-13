@@ -49,7 +49,7 @@ public class Employee {
     double getSalary(Month[] monthArray){
         double salary = 0;
         for (Month i:monthArray){
-            salary+=i.getWorkingDays()*salaryPerDay;
+            salary+=i.getWorkDays()*salaryPerDay;
         }
         return salary;
     }

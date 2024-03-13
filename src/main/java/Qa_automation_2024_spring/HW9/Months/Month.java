@@ -4,19 +4,19 @@ public class Month {
     public Month(String monthName, int allDays, int workingDays) {
         this.monthName = monthName;
         this.allDays = allDays;
-        this.workingDays = workingDays;
+        this.workDays = workingDays;
     }
 
     private String monthName;
-    private int workingDays;
+    private int workDays;
     private int allDays;
 
     public String getMonthName() {
         return monthName;
     }
 
-    public int getWorkingDays() {
-        return workingDays;
+    public int getWorkDays() {
+        return workDays;
     }
 
     public int getAllDays() {
