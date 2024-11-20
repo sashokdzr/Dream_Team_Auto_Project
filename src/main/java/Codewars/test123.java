@@ -7,6 +7,7 @@ import java.util.stream.Stream;
 public class test123 {
         public static void main(String[] args) {
             System.out.println("ab".equals("ab"));
+            Integer.toBinaryString(1+2);
 
 
         }
