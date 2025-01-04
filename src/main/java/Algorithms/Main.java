@@ -18,6 +18,6 @@ public class Main {
         System.out.println(Math.round(92.4789));
 
         System.out.println(ReverseWords.reverseWords("Hello world!"));
-        ReverseWords.printRsult("Hoe are you?");
+        ReverseWords.printRsult("How are you?");
     }
 }
