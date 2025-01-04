@@ -1,8 +1,5 @@
 package Codewars;
 
-import java.util.ArrayList;
-import java.util.List;
-
 class Vovels {
     public static void main(String[] args) {
         String st = "Hello World";

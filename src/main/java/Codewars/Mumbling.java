@@ -4,8 +4,6 @@
 
 package Codewars;
 
-import java.util.Locale;
-
 class Mumbling {
     public static void main(String[] args) {
         System.out.println(accum("AfgT"));

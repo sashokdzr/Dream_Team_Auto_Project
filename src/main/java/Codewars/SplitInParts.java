@@ -1,7 +1,5 @@
 package Codewars;
 
-import java.util.stream.Stream;
-
 public class SplitInParts {
     public static void main(String[] args) {
         System.out.println(splitInParts("supercalifragilisticexpialidocious", 3));

@@ -1,7 +1,5 @@
 package Codewars;
 
-import java.util.Locale;
-
 class GreetMe {
     public static void main(String[] args) {
         System.out.println(greet("saSha"));

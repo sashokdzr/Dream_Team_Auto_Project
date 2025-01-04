@@ -1,8 +1,6 @@
 package Codewars;
 
-import java.util.Locale;
-
-class ReverseWords {
+public class ReverseWords {
     public static void main(String[] args) {
         System.out.println(reverseWords("     "));
     }
@@ -22,5 +20,9 @@ class ReverseWords {
             result+=" ";
         }
         return result.substring(0, result.length()-1);
+    }
+
+    public static void printRsult(String s){
+        System.out.println(reverseWords(s));
     }
 }

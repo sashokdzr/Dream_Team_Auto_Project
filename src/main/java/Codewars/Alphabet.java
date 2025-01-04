@@ -1,7 +1,7 @@
 package Codewars;
 //97-a
 //122-z
-class Alphabet {
+public class Alphabet {
     public static String moveTen(String s) {
         String result="";
         for (int i=0; i< s.length(); i++){

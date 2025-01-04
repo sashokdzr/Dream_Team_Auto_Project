@@ -1,7 +1,5 @@
 package Codewars;
 
-import Qa_automation_2024_spring.HW7.Person;
-
 import java.util.Arrays;
 
 public class TheOffice {

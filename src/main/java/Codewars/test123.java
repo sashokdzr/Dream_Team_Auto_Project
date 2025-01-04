@@ -1,9 +1,5 @@
 package Codewars;
 
-import java.util.Arrays;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
-
 public class test123 {
         public static void main(String[] args) {
             System.out.println("ab".equals("ab"));

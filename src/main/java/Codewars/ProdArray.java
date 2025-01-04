@@ -1,9 +1,7 @@
 package Codewars;
 
 import java.util.Arrays;
-import java.util.stream.Collectors;
 import java.util.stream.IntStream;
-import java.util.stream.LongStream;
 
 public class ProdArray {
     public static long[] productArray(int[] numbers) {

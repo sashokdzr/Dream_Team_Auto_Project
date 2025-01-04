@@ -1,13 +1,8 @@
 package Codewars;
 
-import java.io.BufferedReader;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.nio.charset.StandardCharsets;
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
-import java.util.stream.Collectors;
 
 //Take 2 strings s1 and s2 including only letters from a to z.
 //Return a new sorted string (alphabetical ascending),

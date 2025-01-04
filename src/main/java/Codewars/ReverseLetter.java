@@ -8,11 +8,6 @@ package Codewars;
 //
 //        For str = "ultr53o?n", the output should be "nortlu".
 
-import java.util.Arrays;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
-
-
 class ReverseLetter {
     public static void main(String[] args) {
         System.out.println(reverseLetter("ultr53o?n"));

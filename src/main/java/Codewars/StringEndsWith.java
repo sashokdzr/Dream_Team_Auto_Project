@@ -1,7 +1,5 @@
 package Codewars;
 
-import java.util.Arrays;
-
 class StringEndsWith {
     public static void main(String[] args) {
         System.out.println(solution("this", ""));
