@@ -1,4 +1,7 @@
-package Test;
+package Interfaces;
+
+import Interfaces.Bulb;
+import Interfaces.Switch;
 
 public class Main {
     public static void main(String[] args) {

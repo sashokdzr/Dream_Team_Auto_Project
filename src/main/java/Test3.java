@@ -3,6 +3,7 @@ import java.util.stream.Stream;
 
 
 public class Test3 {
+
     public static void main(String[] args) {
         Map<Character, Integer> mapper = new HashMap<>();
         mapper.put('a', 1);
@@ -60,6 +61,21 @@ public class Test3 {
         Integer m = 12;
         int z = 12;
         System.out.println(z == m);
+
+        char ch = 'z';
+        System.out.println((int)ch);
+        System.out.println((char)188);
+        for (int i=0; i<200; i++){
+            System.out.print((char) i + " ");
+            System.out.println();
+        }
+
+        Map<Integer, Character> ascii = new HashMap<Integer, Character>();
+        for (int i=0; i<200; i++){
+            ascii.put(i, (char)i);
+        }
+        System.out.println(ascii.toString());
+
     }
 
     static List<String> counter(List<String> incoming){

@@ -1,4 +1,4 @@
-package Test;
+package Interfaces;
 
 public class Bulb implements Switchable{
 

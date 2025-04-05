@@ -1,4 +1,4 @@
-package Test;
+package Interfaces;
 
 public interface Switchable {
     public void switchOn();
